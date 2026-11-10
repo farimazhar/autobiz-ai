@@ -66,4 +66,5 @@ Contributions, bug reports, and feature suggestions are welcome. Please open an 
 
 ## License
 
-MIT
+farimazhar 
+for comtact farimazhar101@gmail.com
